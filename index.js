@@ -14,5 +14,5 @@ app.get('/api/data', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Servern körs på http://localhost:${PORT}`);
+  console.log(`Server körs på http://localhost:${PORT}`);
 });
